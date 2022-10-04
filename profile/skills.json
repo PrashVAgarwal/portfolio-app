@@ -1,0 +1,133 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongo DB"
+                },
+                {
+                    "icon": "images/skills/dart.png",
+                    "title": "Dart"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "React Native"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "Pytorch"
+                },
+                {
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/numpy.png",
+                    "title": "Numpy"
+                },
+                {
+                    "icon": "images/skills/keras.png",
+                    "title": "Keras"
+                },
+                {
+                    "icon": "images/skills/scikit.png",
+                    "title": "Scikit-learn"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                
+                {
+                    "icon": "images/skills/huggingface.png",
+                    "title": "Hugging Face"
+                },
+                
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                }
+            ]
+    }
+]}

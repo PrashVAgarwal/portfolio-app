@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/prashant-vibhor-agarwal/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/prashvagarwal"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:pa22165@usc.edu"
+        }
+    ]
+}
