@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Machine Learning Engineer",
+            "subtitle": "Frenzy Labs, Inc.",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a software pipeline using HuggingFace’s DistilBERT model and Tensorflow to classify fashion products.",
+                "Integrated a system using NLP augmentation library to handle irrelevant sentences from the product metadata to reduce misclassification. This led to an increase in classification accuracy by 10%."
+            ],
+            "dateText": "May 2022 – July 2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "M/S Ram Niwas & Sons, India",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed an e-commerce web application based on NodeJS and React as part of a team which helped in increasing sales by 15%.",
+                "Collected, analyzed and interpreted patterns within the client data to make suggestions about sales and marketing.",
+                "Integrated Health checks and fault tolerance to help in maintenance of the web application."
+            ],
+            "dateText": "March 2018 – Nov 2020"
+        },
+        {
+            "title": "Database Engineer",
+            "subtitle": "S. P. Associates, India",
+            "workType": "Internship",
+            "workDescription": [
+                "Managed database using MYSQL to update daily sales and records reducing turnaround time on inventory by 20%."
+            ],
+            "dateText": "July 2016"
+        }
+    ]
+}

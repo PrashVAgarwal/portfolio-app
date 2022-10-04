@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "August 2021-May 2023",
+            "cardTitle": "Master of Science in Computer Science (Artificial Intelligence)",
+            "cardSubtitle":"University of Southern California, Los Angeles, CA",
+            "cardDetailedText": "GPA - 3.75",
+            "icon" : {
+                "src": "images/education/logo.png"
+            }
+        },
+        {
+            "title": "August 2013-June 2017",
+            "cardTitle": "Bachelor of Technology, Computer Science and Engineering (with Honors)",
+            "cardSubtitle":"Dr. A.P.J. Abdul Kalam Technical University, Lucknow, U.P., India",
+            "cardDetailedText": "Marks - 82.52%"
+        }
+    ]
+}

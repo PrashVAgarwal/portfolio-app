@@ -1,0 +1,133 @@
+{
+    "projects" : [
+        {
+            
+            "title": "H&M Personalized Fashion Recommendations",
+            "bodyText": "- Developed a product recommendation system, as part of a Kaggle competition, using data from previous transactions, customer data and product meta data. Placed in top 10 in class.\n -  Employed a multi-tier ensemble learning approach to combine 10 ML based models including Bert4Rec, SANs, RNNs.",
+            "links": [
+                
+                
+            ],
+            "tags" : [
+                "Data Analysis",
+                "Machine Learning",
+                "RecBole"
+            ]
+        },
+        {
+            
+            "title": "Game Playing AI Agent for GO Game",
+            "bodyText": "- Coded an AI agent using Minimax with alpha-beta pruning in python to play Little-Go game (board size of 5x5).\n - The agent competed against other AI agents and achieved a win rate of 87.1%.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/PrashVAgarwal/Artificial-Intelligence/tree/main/Little_GO_Game"
+                }
+               
+            ],
+            "tags" : [
+                "Python",
+                "Game Playing",
+                "Minimax",
+                "Alpha-beta pruning"
+                
+            ]
+        },
+        {
+            
+            "title": "Exploring an Underground 3D Cave System",
+            "bodyText": "- Programmed an intelligent agent to find the optimal path in an underground cave system.\n - Executed the agent using three AI search techniques (A*, UCS, BFS) in python.\n - The agent found the optimal path for 100% of the given inputs.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/PrashVAgarwal/Artificial-Intelligence/tree/main/Maze_Search"
+                }
+            ],
+            "tags" : [
+                "AI search algorithms",
+                "Python"
+            ]
+        },
+        {
+            "title": "Handwritten Digit Recognition",
+            "bodyText": "- Created a Multi-Layer Perceptron Neural Network using python.\n - Used 100,000 28 × 28 grayscale images from the MNIST dataset for training and testing of the neural network.\n - The neural network achieved a near perfect accuracy (100%).",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/PrashVAgarwal/Artificial-Intelligence/tree/main/Neural_Network"
+                }
+            ],
+            "tags" : [
+                "Neural Networks",
+                "NumPy",
+                "Python"
+            ]
+        },
+        {
+            "title": "Sentiment Analysis using news articles from Aljazeera",
+            "bodyText": "- Developed a software pipeline to scrap 10 most recent news articles from the Aljazeera website.\n - Preprocessed the data to keep only the english characters using nltk library. \n - Classified the articles as positive or negative using the TextBlob library. \n - Visualized polarity and subjectivity of the results using plotly.  ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/PrashVAgarwal/sentiment-analysis-aljazeera"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "nltk",
+                "TextBlob",
+                "Plotly",
+                "tqdm",
+                "Beautiful Soup"
+            ]
+        },
+        {
+            "title": "Carbon Score",
+            "bodyText": "- Collaborated with a team to build an end-to-end functional software that uses lightweight MongoDB as the database to store user information and React.js for the frontend.\n - It analyzed the receipts uploaded by the user using machine learning models (OCR-NLP, CV) to generate a carbon score for the user to help promote eco-friendly behavior.",
+            "links": [
+                {
+                    "text": "Devpost",
+                    "href": "https://devpost.com/software/carbon-score"
+                }
+            ],
+            "tags" : [
+                "CSS", 
+                "HTML", 
+                "JavaScript", 
+                "React", 
+                "MongoDB", 
+                "Machine Learning"
+            ]
+        },
+        {
+            "title": "Blood Pressure Calculator",
+            "bodyText": "- Developed a web application that takes the age and weight of the user as input through a form (frontend), sends it to the flask server, which then makes use of a Machine learning pickled file to predict the Blood Pressure of the user, which is then rendered and displayed on the frontend.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/PrashVAgarwal/PrashVAgarwal.github.io/tree/main/flottleeewhaaat"
+                }
+            ],
+            "tags" : [
+                "Flask", 
+                "Machine Learning", 
+                "Jinja2", 
+                "HTML", 
+                "CSS", 
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Photo Album App",
+            "bodyText": "- Created an applicaition for mobile devices using Flutter to serve as a photo album.\n - Its functionalities included importing images from the phone gallery, directly taking pictures with the camera and saving them, displaying the saved images in a grid, allowing to open images in full screen and displaying the details of the photo.",
+            "links": [
+                
+            ],
+            "tags" : [
+                "Android Studio",
+                "Flutter",
+                "Dart"
+            ]
+        }
+    ]
+}
