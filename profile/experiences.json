@@ -1,8 +1,18 @@
 {
     "experiences": [
         {
-            "title": "Machine Learning Engineer",
-            "subtitle": "Frenzy Labs, Inc.",
+            "title": "Software Engineer Intern",
+            "subtitle": "Cadence Design Systems, USA",
+            "workType": "Internship",
+            "workDescription": [
+                "Working on making slack propagation multithreaded across views during commit phase in Signoff Optimization Engine to improve Turn Around Time (TAT) by at least 3 times.",
+                "Built the infrastructure for timing profiler which helped in identifying bottlenecks in the codebase."
+            ],
+            "dateText": "February 2023 – May 2023"
+        },
+        {
+            "title": "Machine Learning Engineer Intern",
+            "subtitle": "Frenzy Labs, Inc., USA",
             "workType": "Internship",
             "workDescription": [
                 "Developed a software pipeline using HuggingFace’s DistilBERT model and Tensorflow to classify fashion products.",
