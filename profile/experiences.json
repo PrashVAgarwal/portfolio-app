@@ -2,7 +2,7 @@
     "experiences": [
         {
             "title": "Software Engineer Intern",
-            "subtitle": "Cadence Design Systems, USA",
+            "subtitle": "Cadence Design Systems, USA", 
             "workType": "Internship",
             "workDescription": [
                 "Working on making slack propagation multithreaded across views during commit phase in Signoff Optimization Engine to improve Turn Around Time (TAT) by at least 3 times.",
